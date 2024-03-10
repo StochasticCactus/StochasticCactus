@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=transparent)
 ![T98G's GitHub stats](https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut)](https://github.com/T98G/github-readme-stats)
 
