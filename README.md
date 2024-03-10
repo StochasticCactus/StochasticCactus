@@ -1,6 +1,18 @@
 ### Hi there 👋
-![T98G's GitHub stats](https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut&theme=transparent)](https://github.com/T98G/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
 
 <div style="display: inline_block"><br>
           <img align="center" alt="T98G-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
