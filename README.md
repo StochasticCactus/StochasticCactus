@@ -12,6 +12,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
 </picture>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut-vertical&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut-vertical"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img height="195" width="210" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
+</picture>
+
+
 ##
 
 <div style="display: inline_block"><br>
