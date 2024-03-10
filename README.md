@@ -15,5 +15,5 @@
 - 🌱 I’m currently learning C++
 - 💬 Ask me about: Molecular Dynamics Simulations
 - 📫 How to reach me: tarcillogaziri@usp.br
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
