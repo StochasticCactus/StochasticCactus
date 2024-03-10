@@ -1,7 +1,6 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=transparent)
 ![T98G's GitHub stats](https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut)](https://github.com/T98G/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut&theme=transparent)](https://github.com/T98G/github-readme-stats)
 
 <div style="display: inline_block"><br>
           <img align="center" alt="T98G-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
