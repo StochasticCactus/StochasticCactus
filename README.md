@@ -9,7 +9,7 @@
           <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compact"
             media="(prefers-color-scheme: dark)" />
-            <img style="max-height: 400px; max-width: 400px;" />
+           <img style="max-height: 100%; width: auto;" />
           
 
            
