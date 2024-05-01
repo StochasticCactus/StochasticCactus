@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
 </picture>
 
-<picture>
+<picture style="text-align: center;">
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G"
     media="(prefers-color-scheme: dark)" />
