@@ -19,7 +19,7 @@
     <img height="195" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
 
   />
-    <img height="195" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
+    
   />
   
 </picture>
