@@ -21,7 +21,8 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut-vertical"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)"
   />
-  <img height="195" width="210" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
+  <img height="195" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=donut-vertical" />
+
 </picture>
 
 
