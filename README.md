@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-<picture style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
-</picture>
+<div style="text-align: center;">
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
+  </picture>
+</div>
+
+<div style="text-align: center;">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G"
+      media="(prefers-color-scheme: dark)" />
+    <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
+  </picture>
+</div>
 
 
 
