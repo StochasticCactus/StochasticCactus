@@ -1,20 +1,15 @@
 ### Hi there 👋
 
 <div style="display: flex; justify-content: center;">
-  <div style="margin-right: 10px;">
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
     </picture>
-
-  <div style="margin-left: 10px;">
     <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G"
         media="(prefers-color-scheme: dark)" />
       <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
     </picture>
-
-</div>
 
 ##
 
