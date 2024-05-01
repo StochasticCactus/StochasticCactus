@@ -9,7 +9,7 @@
           <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark"
             media="(prefers-color-scheme: dark)" />
-          <img height="400" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" style="height: 100%;"/>
+          <img height="450" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" style="height: 100%;"/>
         </picture>
 </div>
 
