@@ -11,6 +11,8 @@
       <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
     </picture>
 
+</div>
+
 ##
 
 <div style="display: inline_block"><br>
