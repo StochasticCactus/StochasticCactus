@@ -39,7 +39,7 @@
 ##
           
 - 🔭 I’m currently working as Biochemistry PhD student
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Calculus
 - 💬 Ask me about: Molecular Dynamics Simulations
 - 📫 How to reach me: tarcillogaziri@usp.br
 - 😄 Pronouns: He/Him
