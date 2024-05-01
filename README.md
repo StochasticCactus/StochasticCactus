@@ -5,30 +5,24 @@
 </picture>
 
 <picture>
-  
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)
-    <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
-    <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
-  />
-  
+    media="(prefers-color-scheme: dark)" />
+  <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
 </picture>
-
 
 ##
 
 <div style="display: inline_block"><br>
-          <img align="center" alt="T98G-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
-          <img align="center" alt="T98G-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-          <img align="center" alt="T98G-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-          <img align="center" alt="T98G-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-          <img align="center" alt="T98G-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />     
+  <img align="center" alt="T98G-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
+  <img align="center" alt="T98G-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="T98G-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+  <img align="center" alt="T98G-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+  <img align="center" alt="T98G-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />     
 </div>
 
-
 ##
-          
+
 - 🔭 I’m currently working as: a Biochemistry PhD student
 - 🌱 I’m currently learning: Calculus
 - 💬 Ask me about: Molecular Dynamics Simulations
