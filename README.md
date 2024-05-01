@@ -7,7 +7,7 @@
         </picture>
         <picture>
           <source
-           
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compac"
             media="(prefers-color-scheme: dark)" />
           <img height="400" width="200" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compac"/>
 
