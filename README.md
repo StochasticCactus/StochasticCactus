@@ -5,10 +5,7 @@
 </picture>
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
+  
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: dark)
