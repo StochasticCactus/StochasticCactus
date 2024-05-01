@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div style="display: flex;">
-    <div style="margin-right: 10px;">
+    <div style="margin-right: 100px;">
         <picture>
           <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
         </picture>
