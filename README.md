@@ -3,13 +3,13 @@
 <div style="display: flex;">
     <div>
         <picture>
-          <img height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&layout=compac" />
+          <img height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&layout=compact" />
         </picture>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compac"
+            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compact"
             media="(prefers-color-scheme: dark)" />
-          <img height="400" width="200" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compac"/>
+          <img height="400" width="200" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compact"/>
 
            
         </picture>
