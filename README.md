@@ -5,7 +5,7 @@
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
     </picture>
-  </div>
+
   <div style="margin-left: 10px;">
     <picture>
       <source
@@ -13,7 +13,7 @@
         media="(prefers-color-scheme: dark)" />
       <img height="300" width="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" />
     </picture>
-  </div>
+
 </div>
 
 ##
