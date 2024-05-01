@@ -43,4 +43,4 @@
 - 💬 Ask me about: Molecular Dynamics Simulations
 - 📫 How to reach me: tarcillogaziri@usp.br
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: There are more real numbers between 0 and 1 than integers between 0 and infinity (Cantor's Diagonalization proof)
