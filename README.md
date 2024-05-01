@@ -38,9 +38,9 @@
 
 ##
           
-- 🔭 I’m currently working as Biochemistry PhD student
-- 🌱 I’m currently learning Calculus
+- 🔭 I’m currently working as: a Biochemistry PhD student
+- 🌱 I’m currently learning: Calculus
 - 💬 Ask me about: Molecular Dynamics Simulations
 - 📫 How to reach me: tarcillogaziri@usp.br
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There are more real numbers between 0 and 1 than there are integers between 0 and infinity (Cantor's Diagonalization proof)
