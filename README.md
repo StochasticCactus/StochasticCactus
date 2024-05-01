@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: flex;">
+<div style="display: inline_block">
     <div>
         <picture>
           <img style="height: 400; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=dark" />
