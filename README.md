@@ -1,26 +1,25 @@
 ### Hi there 👋
 
-<div style="display: flex;">
-    <div>
+<div style="display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: column;">
         <picture>
-          <img height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=dark" />
+            <img height="400" width="400" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=dark" />
         </picture>
         <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark"
-            media="(prefers-color-scheme: dark)" />
-          <img height="400" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" style="height: 100%;"/>
+            <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark" media="(prefers-color-scheme: dark)" />
+            <img height="400" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G" style="height: 100%;" />
         </picture>
+    </div>
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="T98G-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
-  <img align="center" alt="T98G-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="T98G-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
-  <img align="center" alt="T98G-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-  <img align="center" alt="T98G-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />     
+    <img align="center" alt="T98G-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img align="center" alt="T98G-Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img align="center" alt="T98G-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+    <img align="center" alt="T98G-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+    <img align="center" alt="T98G-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 </div>
 
 ##
@@ -31,3 +30,4 @@
 - 📫 How to reach me: tarcillogaziri@usp.br
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There are more real numbers between 0 and 1 than there are integers between 0 and infinity (Cantor's Diagonalization proof)
+
