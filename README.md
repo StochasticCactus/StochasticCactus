@@ -3,7 +3,7 @@
 <div style="display: flex;">
     <div style="margin-center: 10px;">
         <picture>
-          <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
+          <img height="300" width="210" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
         </picture>
         <picture>
           <source
