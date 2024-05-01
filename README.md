@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <picture style="text-align: center;">
-  <img src="https://github-readme-stats.vercel.app/api/username=T98G&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true" />
 </picture>
 
 <picture style="text-align: center;">
