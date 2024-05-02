@@ -29,3 +29,5 @@
 - 📫 How to reach me: tarcillogaziri@usp.br
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: There are more real numbers between 0 and 1 than there are integers between 0 and infinity (Cantor's Diagonalization proof)
+
+<hr>
