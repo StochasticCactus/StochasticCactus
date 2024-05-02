@@ -6,7 +6,7 @@
         <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compact" media="(prefers-color-scheme: dark)" />
         <img style="height: 400px; width: auto; align: center" />  
     </picture>
-</div>
+<hr>
 <div style="display: inline_block"><br>
 <hr>
   <img align="center" alt="T98G-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />         
