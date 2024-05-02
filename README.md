@@ -3,11 +3,6 @@
 ###
 
 <div>
-    <div>
-        <picture>
-          <img style="height: 400; max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=T98G&show_icons=true&theme=dark" />
-        </picture>
-        <picture>
           <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compact"
             media="(prefers-color-scheme: dark)" />
