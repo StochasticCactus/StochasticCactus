@@ -6,7 +6,7 @@
           <source
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compact"
             media="(prefers-color-scheme: dark)" />
-           <img style="height: 400; width: auto;" />  
+           <img style="height: 10000; width: auto;" />  
         </picture>
 </div>
 
