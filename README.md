@@ -3,7 +3,7 @@
 <hr>
 <div>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&theme=dark&layout=compact" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compact" media="(prefers-color-scheme: dark)" />
         <img style="height: 400px; width: auto; align: center" />  
     </picture>
 <hr>
