@@ -20,7 +20,8 @@
   <img align="center" alt="T98G-Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />     
 </div>
 
-##
+<hr>
+
 
 - 🔭 I’m currently working as: a Biochemistry PhD student
 - 🌱 I’m currently learning: Calculus
