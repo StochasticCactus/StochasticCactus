@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently working as: a Biochemistry PhD student
-- 🌱 I’m currently learning: Calculus
+- 🌱 I’m currently learning: Statistical Mechanics
 - 💬 Ask me about: Molecular Dynamics Simulations
 - 📫 How to reach me: tarcillogaziri@usp.br
 - 😄 Pronouns: He/Him/His
