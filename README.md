@@ -12,7 +12,7 @@
 
 - 🔬 PhD Student in **Biochemistry**
 - 🌡️ Focused on **Molecular Dynamics Simulations** and **Statistical Mechanics**
-- ⚗️ Interested in theoretical biophysics, free energy methods, and scientific programming
+- ⚗️ Interested in theoretical biophysics, free energy methods, quantum chemistry calculations and scientific programming
 - 📚 Currently learning: **Statistical Mechanics** and **Advanced Simulation Techniques**
 - 💬 Ask me about: **MD Simulations**, **Lennard-Jones gases**, **Monte Carlo methods**
 - 📫 Reach me at: **tarcillogaziri@usp.br**
