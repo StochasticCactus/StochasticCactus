@@ -14,7 +14,7 @@
 - 🌡️ Focused on **Molecular Dynamics Simulations** and **Statistical Mechanics**
 - ⚗️ Interested in theoretical biophysics, free energy methods, quantum chemistry calculations and scientific programming
 - 📚 Currently learning: **Statistical Mechanics** and **Advanced Simulation Techniques**
-- 💬 Ask me about: **MD Simulations**, **Lennard-Jones gases**, **Monte Carlo methods**
+- 💬 Ask me about: **MD Simulations**
 - 📫 Reach me at: **tarcillogaziri@usp.br**
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: *There are more real numbers between 0 and 1 than integers from 0 to infinity – thanks, Cantor!*
