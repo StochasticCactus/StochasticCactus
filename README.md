@@ -2,11 +2,9 @@
 <h1 align="center">Hi there 👋, I'm Tarcillo</h1>
 <h3 align="center">Computational Biochemistry PhD Student | Simulation Enthusiast | Science Explorer</h3>
 
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T98G&theme=default" alt="Top languages pie chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compact&theme=default" alt="Top languages" />
 </p>
-
 ---
 
 ### 🧠 About Me
