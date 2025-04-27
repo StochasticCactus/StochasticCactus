@@ -3,7 +3,7 @@
 <h3 align="center">Computational Biochemistry PhD Student | Simulation Enthusiast | Science Explorer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compact&hide_progress=false&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 ---
