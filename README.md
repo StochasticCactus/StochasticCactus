@@ -36,7 +36,7 @@
 ### 🔭 Current Projects
 
 - 🚧 Monte Carlo simulations of **Lennard-Jones gases** with **Cython + OpenMP**
-- <img width="20" height="20" alt="molecules-4" src="https://github.com/user-attachments/assets/155fd130-645f-4c6a-aeb2-21ca25859a82" /> A Proof of Conccept Molecular Dynamics simulations Package 
+- <img width="20" height="20" alt="molecules-4" src="https://github.com/user-attachments/assets/155fd130-645f-4c6a-aeb2-21ca25859a82" /> A Proof of Concept Molecular Dynamics simulations Package 
 - 🧪 Cluster analysis tools for atomic simulations in **Fortran**
 
 ---
