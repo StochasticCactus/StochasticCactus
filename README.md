@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">Hi there 👋, I'm Tarcillo</h1>
-<h3 align="center">Computational Biochemistry PhD Student | Simulation Enthusiast | Science Explorer</h3>
+
+<h3 align="center">Computational Biochemistry PhD Student >
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T98G&layout=compact&theme=default" alt="Top languages" />
@@ -15,7 +15,6 @@
 - ⚗️ Interested in theoretical biophysics, free energy methods, quantum chemistry calculations and scientific programming
 - 📚 Currently learning: **Statistical Mechanics** and **Advanced Simulation Techniques**
 - 💬 Ask me about: **MD Simulations**
-- 📫 Reach me at: **tarcillogaziri@usp.br**
 - 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: *There are more real numbers between 0 and 1 than integers from 0 to infinity – thanks, Cantor!*
 
