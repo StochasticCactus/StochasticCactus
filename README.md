@@ -3,7 +3,7 @@
 <h3 align="center">Computational Biochemistry PhD Student
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/toplangs/username=StochasticCactus&layout=compact&theme=default" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=StochasticCactus&layout=compact&theme=default" alt="Top languages" />
 </p>
 
 ---
