@@ -10,7 +10,6 @@
 - 📚 Currently learning: **Statistical Mechanics** and **Advanced Simulation Techniques**
 - 💬 Ask me about: **MD Simulations**
 - 😄 Pronouns: **He/Him/His**
-- ⚡ Fun fact: *There are more real numbers between 0 and 1 than integers from 0 to infinity – thanks, Cantor!*
 
 ---
 
