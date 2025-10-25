@@ -38,7 +38,3 @@
 _Stay tuned for some open-source tools and simulation scripts I've been working on!_
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=T98G&label=Profile%20views&color=0e75b6&style=flat" alt="T98G" />
-</p>
